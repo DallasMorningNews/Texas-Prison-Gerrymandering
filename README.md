@@ -1,5 +1,5 @@
 # Texas-Prison-Gerrymandering
-Data and analysis for the story <a href=https://www.dallasnews.com/news/investigations/2021/12/15/prison-gerrymandering-how-inmates-are-helping-the-texas-gop-maintain-its-power/">"‘Prison gerrymandering:’ How inmates are helping the Texas GOP maintain its power"</a> published by The Dallas Morning News on December 15, 2021.
+Data and analysis for the story <a href="https://www.dallasnews.com/news/investigations/2021/12/15/prison-gerrymandering-how-inmates-are-helping-the-texas-gop-maintain-its-power/">"‘Prison gerrymandering:’ How inmates are helping the Texas GOP maintain its power"</a> published by The Dallas Morning News on December 15, 2021.
 
 ## Methodology
 To conduct this analysis, The News began with three data files: one from the Texas Department of Criminal Justice with each incarcerated persons’ name, county of charge and the facility where they were housed on March 31, 2020; another from TDCJ showing the location of each prison and a third from the Census Bureau containing the population of every county in 2020. These three files were joined together for analysis.
